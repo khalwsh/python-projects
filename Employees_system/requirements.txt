@@ -1,0 +1,30 @@
+you have factory of employees
+
+1) add new employee
+2) print all employees
+3) delete by age range
+4) update Salary by name
+5) End the program
+
+Employee information:
+1- name including spaces:string
+2- age and salary: int
+
+how to print?
+Employee: {name} has age {age} and salary {salary}\n
+
+Delete by age range:
+Enter age from : 
+Enter age to :
+      print the deleted emps in the following format
+      Deleting {name} 
+
+update salary:
+Enter name:
+Enter new Salary:
+//if there exist person have this name update and don't print else error
+
+classes:
+Empolyee: just holds the data and basic functions
+EmpolyeeManager: holds a list of employees and has implementation for menu
+FrontedManger: print hte menu, and call employee manager with user input
