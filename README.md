@@ -1,6 +1,6 @@
 # python-projects
 
-## 1)Employees system
+## 1) Employees system
 
 - __Description:__
   - simple Employees system store data about employees in a company and manipulate it
