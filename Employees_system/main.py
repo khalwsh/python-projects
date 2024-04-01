@@ -48,15 +48,12 @@ class EmployeeManager:
         b = int(b)
         if a > b:
             a, b = b, a
-        index = list()
-        deleted = list()
-        for i, emp in enumerate(self.employees):
+        for idx in range(len(self.employees) - 1, -1, -1):
+            emp = self.employees[idx]
             if a <= emp.age <= b:
-                index.append(i)
-                deleted.append(emp)
-        for j in index:
-            del self.employees[j]
-        return deleted
+                print('\tDeleting', emp.name)
+                self.employees.pop(idx)
+
 
     def update_salary_by(self):
         name = input("Enter Employee name: ")
