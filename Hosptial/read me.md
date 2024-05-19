@@ -6,10 +6,6 @@ This project is a command-line application for managing patients in a hospital. 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Class Descriptions](#class-descriptions)
-- [Function Descriptions](#function-descriptions)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Add new patients with a name, status, and specialization.
