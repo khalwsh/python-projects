@@ -6,10 +6,6 @@ This project is a command-line application for managing employees. It allows add
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Class Descriptions](#class-descriptions)
-- [Function Descriptions](#function-descriptions)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Add new employees with a name, age, and salary.
