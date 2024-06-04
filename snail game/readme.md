@@ -1,5 +1,4 @@
-# Define the content of the README file
-readme_content = """
+
 # SnailGame
 
 SnailGame is a simple side-scrolling runner game built using Pygame. The player controls a character that must avoid snails by jumping over them. The game keeps track of the player's score, which increases over time.
