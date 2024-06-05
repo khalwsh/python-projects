@@ -44,7 +44,7 @@ To install the game, you need to have Python and Pygame installed on your machin
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/khalwsh/snailgame.git](https://github.com/khalwsh/python-projects.git
+   git clone https://github.com/khalwsh/python-projects.git
    then open the snail game directory and run it.
 
    or just download the snail game directory as zip file
